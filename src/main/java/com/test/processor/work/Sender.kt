@@ -22,7 +22,7 @@ fun main() {
   //声明队列
   channel.queueDeclare(QUEUE_NAME,false,false,false,null)
 
-  //向队列中发送100条消息
+  //向队列中发送60条消息
   for (i in 1..60){
     val message="hello world $i"
     channel.basicPublish("",QUEUE_NAME,null,message.toByteArray(StandardCharsets.UTF_8))
