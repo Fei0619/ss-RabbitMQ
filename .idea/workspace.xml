@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43d0e81e-0df6-4307-bec7-6e671310ab4d" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43d0e81e-0df6-4307-bec7-6e671310ab4d" name="Default Changelist" comment="init" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/ReceiverA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+            <state relative-caret-position="520">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,12 +137,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/Subscribe_receiver_b.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/Consumer.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/RecevierA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/ReceiverA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/ReceiverB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/direct/Sender.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/direct/Receiver_A.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/topic/Sender.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/processor/work/ReceiverA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/ReceiverA.java" />
       </list>
     </option>
   </component>
@@ -156,9 +154,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="392" />
+    <option name="x" value="391" />
     <option name="width" value="1535" />
-    <option name="height" value="1043" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -397,18 +395,18 @@
       <workItem from="1586270876837" duration="3020000" />
       <workItem from="1586308481006" duration="995000" />
       <workItem from="1586394716271" duration="679000" />
-      <workItem from="1586827257675" duration="615000" />
+      <workItem from="1586827257675" duration="867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71140000" />
+    <option name="totallyTimeSpent" value="71392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="314" y="0" width="1228" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21556886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21556886" />
       <window_info id="Alibaba Cloud Explorer" order="1" weight="0.32963374" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -428,7 +426,7 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32905984" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
@@ -450,6 +448,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.7.3/amqp-client-5.7.3.jar!/com/rabbitmq/client/ConnectionFactory.class">
@@ -709,8 +733,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/processor/subscribe/fanout/ReceiverA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="33" column="67" lean-forward="true" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+        <state relative-caret-position="520">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
